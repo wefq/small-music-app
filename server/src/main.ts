@@ -14,6 +14,3 @@ const start = async () => {
 }
 
 start()
-
-console.log('a')
-console.log('b')
